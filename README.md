@@ -10,7 +10,7 @@ I am a part-time teacher teaching kids about coding and technology because I thi
 
 I appeared in GATE and got 95 percentile. It enabled me to have a deep understanding of computer science in general.
 
-Mtech enabled me to see what it feels like to be a researcher. Get hands-on experience in research and improve my understanding of core computer science Subjects.
+Mtech enabled me to see what it feels like to be a researcher. Got hands-on experience in research and improved my understanding of core computer science Subjects.
 
 You can reach me at jibran105@gmail.com
 <!---
