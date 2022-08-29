@@ -9,8 +9,6 @@ Mtech enabled me to see what it feels like to be a researcher. Got hands-on expe
 
 I appeared in GATE and got 95 percentile. It enabled me to have a deep understanding of computer science in general.
 
-Mtech enabled me to see what it feels like to be a researcher. Got hands-on experience in research and improved my understanding of core computer science Subjects.
-
 Finally Excited to rejoin the industry!!
 
 You can reach me at jibran105@gmail.com
