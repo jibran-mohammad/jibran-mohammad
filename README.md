@@ -7,9 +7,11 @@ I appeared in GATE and got 95 percentile. It enabled me to have a deep understan
 
 Mtech enabled me to see what it feels like to be a researcher. Got hands-on experience in research and improved my understanding of core computer science Subjects by taking them to the next level.
 
-I appeared in GATE and got 95 percentile. It enabled me to have a deep understanding of computer science in general.
 
 Finally Excited to rejoin the industry!!
+
+You can more about me on my portfolio webiste whose link is given below:
+https://jibran-mohammad.github.io
 
 You can reach me at jibran105@gmail.com
 <!---
